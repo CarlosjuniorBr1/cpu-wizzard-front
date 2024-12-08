@@ -33,3 +33,7 @@ Você pode baixar e instalar o Node.js em [nodejs.org](https://nodejs.org/).
   ## Start o projeto
     ng serve
 
+# Acessando o aplicativo
+  ## localhost:4200
+
+### * o backend deve estar rodando para que o app funcione.
