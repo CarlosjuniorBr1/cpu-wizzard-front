@@ -22,10 +22,14 @@ Você pode baixar e instalar o Node.js em [nodejs.org](https://nodejs.org/).
    npm install -g @angular/cli@13
 
 
-## Como rodar
+## Como rodar o projeto
 
-    Faça o clone do repositório
-    Acesse a pasta do projeto
-    rode o comando: "npm i" para atualizar as dependências
-    O comando "ng serve" start o aplicativo.
+   # Faça o clone do repositório
+     git clonne https://github.com/CarlosjuniorBr1/cpu-wizzard-front.git
+   # Acesse a pasta do projeto
+     cd cpu-wizzard-front
+   # Atualize as dependências com o comando: 
+       npm install
+  # Start o projeto
+    ng serve
 
